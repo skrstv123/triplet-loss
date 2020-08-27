@@ -15,14 +15,11 @@ d_n
 $
 
 For each example, we want:
-$
-d_p \leq d_n
-$
+<img src="https://render.githubusercontent.com/render/math?math=d_p \leq d_n">
 
 Therefore,
-$
-d_p - d_n \leq 0
-$
+<img src="https://render.githubusercontent.com/render/math?math=d_p - d_n \leq 0">
+
 
 This condition is quite easily satisfied during the training.
 
