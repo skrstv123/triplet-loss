@@ -25,4 +25,4 @@ This condition is quite easily satisfied during the training.
 **thus making it necessary for dn to be more than dp by atleast alpha**
 
 Given the condition above, the Triplet Loss L is defined as:
-<img src="https://render.githubusercontent.com/render/math?math= max(d_p - d_n + alpha, 0)">
+L = max(d_p - d_n + alpha, 0)
